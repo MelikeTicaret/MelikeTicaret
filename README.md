@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-quare&labelColor=blue&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/melike-ticaret-6a410b1b9/)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-quare&labelColor=red&logo=gmail&logoColor=white&link=link)](meliketicaret@gmail.com)
+[![Notion Badge](https://img.shields.io/badge/-Notion-black?style=flat-quare&labelColor=black&logo=Notion&logoColor=white&link=link)](https://meliketicaret.notion.site/Melike-s-Secret-Garden-fd867827a3724798a143dc6e6da2571b)
+
 
 <br>
 
